@@ -1,5 +1,5 @@
 SRC_NAME = htop-3.0.2
-SRC_URL = https://src.fedoraproject.org/repo/extras/htop/htop-3.0.2.tar.gz/sha512/5b578972e40e3229aa8b2bdc931c4c8bceaafd2a150b02e0257ab35a4fbac25852e959ecc472bd6747be57ea8734b59cc4b872a5ac829624cc80e1722c54d868/htop-3.0.2.tar.gz
+SRC_URL = https://www.right.com.cn/forum/forum.php?mod=attachment&aid=NDQxMTk5fDRkZjhjODQ1fDE2NzE4NTA5MTZ8MHw0MDY0ODY3
 THISDIR = $(shell pwd)
 
 all: download_test extract_test config_test
