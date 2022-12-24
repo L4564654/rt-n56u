@@ -1,5 +1,5 @@
 SRC_NAME = htop-3.0.2
-SRC_URL = https://www.right.com.cn/forum/forum.php?mod=attachment&aid=NDQxMTk5fDRkZjhjODQ1fDE2NzE4NTA5MTZ8MHw0MDY0ODY3
+SRC_URL = http://sources.buildroot.net/htop/htop-3.0.2.tar.gz
 THISDIR = $(shell pwd)
 
 all: download_test extract_test config_test
